@@ -1,0 +1,6 @@
+{
+    "refresh_token": "<refresh token from google smart device API>",
+    "client_secret": "<client secret used to refresh token>",
+    "project_id": "<project id from google>",
+    "client_id": "<client id given from google>"
+}
